@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Mickey",
+    "image": "https://i.pinimg.com/originals/76/49/f5/7649f556f4720425121f05553ab9d819.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Minnie",
+    "image": "https://images.homedepot-static.com/productImages/d8a8d24a-7866-465c-829e-194c9ab87a24/svn/blue-roommates-wall-decals-rmk1509gm-64_1000.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Goofy",
+    "image": "https://cdn11.bigcommerce.com/s-5ylnei6or5/images/stencil/1280x1280/products/530/2119/742-Goofy__75060.1497284387.jpg?c=2&imbypass=on",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Duffy",
+    "image": "https://i.pinimg.com/originals/40/14/c3/4014c32be7b8dbeed0b06cae3f78185f.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Donald",
+    "image": "https://previews.123rf.com/images/chutimakuanamon/chutimakuanamon1803/chutimakuanamon180300312/104747177-donald-duck-illustration-cartoon-head-angry-rage.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Sleeping Beauty",
+    "image": "https://vignette.wikia.nocookie.net/p__/images/2/28/Aurora.jpg/revision/latest?cb=20180506103333&path-prefix=protagonist",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Cinderella",
+    "image": "https://i.pinimg.com/originals/95/c4/a7/95c4a71debba5ea62bda76b7311c8f29.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Maleficent",
+    "image": "https://cdn.shopify.com/s/files/1/2271/8815/products/4055439_2048x2048.jpg?v=1507889870",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Pinocchio",
+    "image": "https://www.threedifferentdirections.com/wp-content/uploads/2017/02/Screen-Shot-2017-02-02-at-11.42.42-PM.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Dumbo",
+    "image": "https://pngimage.net/wp-content/uploads/2018/05/dumbo-png-7.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Bambi",
+    "image": "https://i.pinimg.com/originals/02/af/77/02af7774aaef610a836c47d9dcbeb147.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Thumper",
+    "image": "https://www.disneyclips.com/imagesnewb5/images/thumper_happy2.gif",
+    "count": 0
+  }
+]
